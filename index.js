@@ -27,7 +27,7 @@ var exts = {
 /**
  * Note that you may want to change this, depending on your setup.
  */
-var port = 8080;
+var port = 3000;
 
 /**
  * Create the express app
